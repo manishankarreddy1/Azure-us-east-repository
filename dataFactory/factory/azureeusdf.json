@@ -1,0 +1,9 @@
+{
+	"name": "azureeusdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eacc89bd-3175-4366-8a07-c839cc26be04",
+		"tenantId": "c55b2b21-8194-4831-86bb-316f71baa50e"
+	}
+}
