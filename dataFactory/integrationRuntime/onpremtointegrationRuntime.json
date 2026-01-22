@@ -1,0 +1,6 @@
+{
+	"name": "onpremtointegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
